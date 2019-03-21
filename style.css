@@ -1,0 +1,30 @@
+.navbar {
+    border-radius: 15px;
+}
+
+.dosis-nav {
+    font-family: 'Dosis', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 4px;
+}
+
+.jumbotron {
+    border-radius: 15px;
+}
+
+.dosis-jumbo {
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    letter-spacing: 4px;
+}
+
+img {
+    border-radius: 10%;
+}
+
+.dosis-proj {
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    letter-spacing: 4px;
+}
