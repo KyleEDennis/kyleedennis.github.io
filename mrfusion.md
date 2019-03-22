@@ -8,13 +8,13 @@ Welcome to the exciting world of consumer-level applied high-energy physics, bro
 
 For long-term usage, we **highly recommend** that you enroll in our supplementary courses, which are available both in-person and by virtualized telepresence:
 
-<!-- Add class for table-active -->
+<!-- Add class for table-active add classes to rows for link text-->
 Course | Description
 ------ | -----------
-[Home Safety](https://generalplasma.com/mrfusion/courses/001) | Identify the areas and materials of your home most vulnerable to neutron flux.
-[Reactor Maintenance](https://generalplasma.com/mrfusion/courses/002) | Monitoring plasma composition and containment vessel wear.
-[Emergency Shutdown Procedures](https://generalplasma.com/mrfusion/courses/003) | Performing SCRAM procedures to prevent catastrophic toroid failure in the event of overload.
-[Radiation Exposure Syndrome](https://generalplasma.com/mrfusion/courses/013) | Spotting the early warning signs of radiation exposure and RES mitigation techniques.
+[Home Safety](#) | Identify the areas and materials of your home most vulnerable to neutron flux.
+[Reactor Maintenance](#) | Monitoring plasma composition and containment vessel wear.
+[Emergency Shutdown Procedures](#) | Performing SCRAM procedures to prevent catastrophic toroid failure in the event of overload.
+[Radiation Exposure Syndrome](#) | Spotting the early warning signs of radiation exposure and RES mitigation techniques.
 
 
 ## FIRST SETUP
